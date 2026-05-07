@@ -14,7 +14,7 @@ export default function Hero() {
           Real-time crypto analytics, live pricing, and modern trading insights.
         </p>
 
-        <button className="mt-8 px-6 py-3 bg-linear-to-r from-purple-500 to-blue-500 rounded-xl">
+        <button className="mt-8 px-6 py-3 bg-linear-to-r from-purple-500 to-blue-500 rounded-xl hover:cursor-pointer">
           Get Started
         </button>
       </motion.div>
